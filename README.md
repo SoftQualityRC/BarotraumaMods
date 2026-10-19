@@ -1,3 +1,3 @@
-<img width="451" height="314" alt="18-10-2026_194335" src="https://github.com/user-attachments/assets/1ea6b6b6-4f45-4be0-b0c7-0ffcd760dee2" />
+<img width="330" height="221" alt="Скриншот 19-10-2026 184451" src="https://github.com/user-attachments/assets/ab59ddd9-f9ff-4ff8-aba2-c72743e2b55b" />
 
-https://github.com/SoftQualityRC/BarotraumaMods/releases/tag/Barotrauma
+https://github.com/SoftQualityRC/BarotraumaMods/releases/tag/DangerousItemWatcher
